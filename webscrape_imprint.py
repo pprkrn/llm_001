@@ -7,6 +7,8 @@ from bs4 import BeautifulSoup
 import time
 from urllib.parse import urlparse
 import csv
+import sys
+sys.stdout.reconfigure(encoding='utf-8')
     
 def load_impressum_paths(csv_file):
     paths = []
