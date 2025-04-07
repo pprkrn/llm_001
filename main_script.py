@@ -50,6 +50,6 @@ with open(csv_file, mode='a', newline='', encoding='utf-8') as f:
     writer.writerow(entry)
 
 # ✅ Print-Ausgabe der extrahierten Felder
-print(f"\n✅ Fertig für: {target_url}\n")
+print(f"\n Fertig für: {target_url}\n")
 for key, value in entry.items():
     print(f"{key}: {value}")
