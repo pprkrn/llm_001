@@ -31,7 +31,7 @@ def run_scraper(target_url):  # <== WICHTIG: diese Funktion muss da sein
     impressum_paths = load_impressum_paths("input/impressum_paths.csv")
     impressum_urls = generate_impressum_urls(target_url, impressum_paths)
 
-    print(f"🔎 Starte Impressumssuche auf {target_url} – {time.strftime('%H:%M:%S')}\n")
+    print(f"Starte Impressumssuche auf {target_url} – {time.strftime('%H:%M:%S')}\n")
 
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
