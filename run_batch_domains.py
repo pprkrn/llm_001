@@ -24,10 +24,10 @@ for url in target_urls:
             capture_output=True,
             text=True
         )
-        print(f"✅ Erfolgreich verarbeitet: {url}")
+        print(f" Erfolgreich verarbeitet: {url}")
         print(result.stdout)
 
     except subprocess.CalledProcessError as e:
-        print(f"❌ Fehler bei {url}")
+        print(f" Fehler bei {url}")
         print(e.stderr)
         continue
