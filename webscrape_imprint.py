@@ -46,12 +46,12 @@ def run_scraper(target_url):  # <== WICHTIG: diese Funktion muss da sein
             if response.status_code == 200:
                 soup = BeautifulSoup(response.text, "html.parser")
                 text = soup.get_text(separator=" ", strip=True)
-                print(f"\n✅ Impressum gefunden unter: {url}\n")
+                print(f"\n Impressum gefunden unter: {url}\n")
                 print(text)
                 return text, target_url
         except requests.RequestException as e:
-            print(f"⚠️ Fehler bei {url}: {e}")
+            print(f" Fehler bei {url}: {e}")
             continue
 
-    print("\n❌ Kein Impressum gefunden.")
+    print("\n Kein Impressum gefunden.")
     return None, target_url
