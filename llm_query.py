@@ -50,7 +50,7 @@ def get_data_for_csv(target_url):
 
         print("💬 Sende Prompt an LLM...")
         stream = chat(
-            model='mistral:latest',
+            model='imprintextractor:latest',
             messages=[{
                 'role': 'user',
                 'content': prompt,
