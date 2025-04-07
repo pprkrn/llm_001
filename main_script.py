@@ -49,4 +49,7 @@ with open(csv_file, mode='a', newline='', encoding='utf-8') as f:
         writer.writeheader()
     writer.writerow(entry)
 
-print(f"✅ Fertig für: {target_url}")
+# ✅ Print-Ausgabe der extrahierten Felder
+print(f"\n✅ Fertig für: {target_url}\n")
+for key, value in entry.items():
+    print(f"{key}: {value}")
