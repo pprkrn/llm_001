@@ -1,110 +1,45 @@
-Unternehmensname,Geschäftsführer,E-Mail-Adresse,Telefonnummer,Adresse,HRB-Nummer,UStID-Nummer,Website
-KAISER+KRAFT GmbH,N/A,info@kaiserkraft.com,+49 7132 800 - 0,info@kaiserkraft.com,20103,DE 199225340,https://www.kaiserkraft.de
-Grüne Erde,N/A,beratung@grueneerde.com,089 12 00 990,beratung@grueneerde.com,N/A,N/A,https://www.grueneerde.com
-TonerPartner GmbH,"Morten Severon, Manuel Schäfer",verkauf@tonerpartner.de,+49 (0)2324 / 4395-0,verkauf@tonerpartner.de,HRB 7683,DE297150241,https://www.tonerpartner.de
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,https://www.herrenausstatter.de
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,https://www.breuninger.com
-memo,"Dr. Martin Staudt (CEO), Dr. Michael Gsellmann (CFO), Dipl.-Wirt.-Ing. Thomas Reh (COO)",hinweisgeber@memo.de,+49 9369 905-600,hinweisgeber@memo.de,HRB 7398 (Amtsgericht Bamberg),DE296141597,https://www.memolife.de
-Natur.com,N/A,info@natur.com,09451-949097,info@natur.com,138273 B,DE290905489,https://www.natur.com
-N/A,N/A,info@hans-walz.de,01805 / 534239,info@hans-walz.de,N/A,N/A,https://www.holzfarm.de
-Bergfreunde,"Sebastian Staendecke, Thomas Bode, und weitere (nicht vollständig aufgeführt)",kontakt@bergfreunde.de,07121/70 12 0,kontakt@bergfreunde.de,519754,N/A,https://www.bergfreunde.de
-Manufactum GmbH,"Alexander Peters, Kai Steffan",info@manufactum.de,02309 939050,info@manufactum.de,HRB 7982,DE315189509,https://www.manufactum.de
-KAISER+KRAFT GmbH,N/A,N/A,N/A,N/A,20103,DE 199225340,https://www.kaiserkraft.de
-Grüne Erde,N/A,beratung@grueneerde.com,089 12 00 990,beratung@grueneerde.com,7684,DE293571065,https://www.grueneerde.com
-TonerPartner GmbH,"Morten Severon, Manuel Schäfer",verkauf@tonerpartner.de,+49 (0)2324 / 4395-0,verkauf@tonerpartner.de,21396,DE295903383,https://www.tonerpartner.de
-herrenausstatter.de,N/A,N/A,+49 (0)89 / 1 22 333 44,N/A,N/A,DE814697105,https://www.herrenausstatter.de
-Breuninger,N/A,kontakt@breuninger.com,+49 (0)711 22560,kontakt@breuninger.com,2495,DE183006143,https://www.breuninger.com
-memo,N/A,hinweisgeber@memo.de,+49 9369 905-600,hinweisgeber@memo.de,49912857,DE300906169,https://www.memolife.de
-Natur.com,Herrn Michael Schmitt,info@natur.com,09451-949097,info@natur.com,D-BY-006-43992-B,DE817566238,https://www.natur.com
-N/A,N/A,kundenservice@essenziell.de,+49 2163 70 86 99,kundenservice@essenziell.de,N/A,N/A,https://www.holzfarm.de
-Bergfreunde,Sebastian Staendecke,info@bergfreunde.de,07121/70 12 0,info@bergfreunde.de,954196,DE307642183,https://www.bergfreunde.de
-Manufactum GmbH,"Alexander Peters, Kai Steffan",info@manufactum.de,02309 93900,info@manufactum.de,7982,DE315189509,https://www.manufactum.de
-"Geschäftsführer: Hermann Pfitzinger, Karl-Heinz Dusold, Frank Leßmann","Hermann Pfitzinger, Karl-Heinz Dusold, Frank Leßmann",kundenservice@kaiserkraft.de,+49 (0) 7156 820-0,kundenservice@kaiserkraft.de,146879 Stuttgart,DE 279 811 567,https://www.kaiserkraft.de
-Grüne Erde,Thomas Ronas,beratung@grueneerde.com,+49 89 12 00 990,beratung@grueneerde.com,123456,DE123456789,https://www.grueneerde.com
-TonerPartner,"Max Mustermann, John Doe",support@tonerpartner.de,+49(0)2324/4395-0,support@tonerpartner.de,12345,DE987654321,https://www.tonerpartner.de
-Geschäftsführer:,E-Mail-Adresse:,Telefonnummer: +49 (0)89 / 1 22 333 44,+49 (0)89 / 1 22 333 44,Telefonnummer: +49 (0)89 / 1 22 333 44,UStID-Nummer:,Website: herrenausstatter.de,https://www.herrenausstatter.de
-E. Breuninger GmbH & Co.,N/A,N/A,N/A,N/A,N/A,N/A,https://www.breuninger.com
-Geschäftsführer: N/A,N/A,N/A,N/A,N/A,N/A,N/A,https://www.memolife.de
-Geschäftsführer: N/A,N/A,info@natur.com,09451-949097,info@natur.com,D-BY-006-43992-B,DE185797482,https://www.natur.com
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,https://www.holzfarm.de
-Geschäftsführer:,E-Mail-Adresse:,Telefonnummer: 07121/70 12 0,07121/70 12 0,Telefonnummer: 07121/70 12 0,N/A,N/A,https://www.bergfreunde.de
-Manufactum GmbH,"Alexander Peters, Kai Steffan",info@manufactum.de,02309 939050,info@manufactum.de,7982,DE301456201,https://www.manufactum.de
-Geschäftsführer:,E-Mail-Adresse: contact@kaiserkraft.com,contact@kaiserkraft.com,+49 89 1234567,contact@kaiserkraft.com,N/A,DE123456789,https://www.kaiserkraft.de
-Geschäftsführer: [Name],[Name],beratung@grueneerde.com,N/A,beratung@grueneerde.com,N/A,N/A,https://www.grueneerde.com
-Geschäftsführer:,E-Mail-Adresse:,Telefonnummer:,Adresse:,Telefonnummer:,UStID-Nummer:,Website:,https://www.tonerpartner.de
-Geschäftsführer: N/A,N/A,N/A,+49 (0)89 / 1 22 333 44,N/A,N/A,N/A,https://www.herrenausstatter.de
-Geschäftsführer: N/A,N/A,N/A,N/A,N/A,N/A,N/A,https://www.breuninger.com
-Geschäftsführer: N/A,N/A,N/A,+49 9369 905-600,N/A,34567,DE123456789,https://www.memolife.de
-Geschäftsführer: Maximilian Strobl,Maximilian Strobl,info@natur.com,09451-949097,info@natur.com,HRB 12345,DE123456789,https://www.natur.com
-Geschäftsführer: N/A,N/A,N/A,N/A,N/A,N/A,N/A,https://www.holzfarm.de
-Bergfreunde,Thomas und Peter (vom Unternehmenszettel),Kontakt@bergfreunde.de,07121/70 12 0,Kontakt@bergfreunde.de,N/A,N/A,https://www.bergfreunde.de
-Manufactum GmbH,"Alexander Peters, Kai Steffan",info@manufactum.de,02309 939050,info@manufactum.de,HRB 20283,DE159768489,https://www.manufactum.de
-KAISER+KRAFT GmbH,"Carlos Czerwinski, Carsten Rumpf, Joachim Eschke",service@kaiserkraft.de,+49 (0) 711 / 3465 - 6100,service@kaiserkraft.de,20103,DE 199225340,https://www.kaiserkraft.de
-Grüne Erde,Thomas Scharmer,beratung@grueneerde.com,089 12 00 990,beratung@grueneerde.com,297846,ATU58294501,https://www.grueneerde.com
-TonerPartner.de,E-Mail-Adresse:,Telefonnummer: +49 (0)2324 / 4395-0,+49 (0)2324 / 4395-0,Telefonnummer: +49 (0)2324 / 4395-0,123456789,DE123456789,https://www.tonerpartner.de
-herrenausstatter.de,N/A,N/A,+49 (0)89 / 1 22 333 44,N/A,N/A,N/A,https://www.herrenausstatter.de
-E. Breuninger GmbH & Co.,Maximilian Breuninger und Patrick Breuninger,info@breuninger.com,+49 711 30685 0,info@breuninger.com,836399 Amtsgericht Stuttgart,DE295471083,https://www.breuninger.com
-memo.de,Günther Bartschat (Aufsichtsratsvorsitzender),hinweisgeber@memo.de,+49 9369 905-600,hinweisgeber@memo.de,6830,DE134178283,https://www.memolife.de
-Geschäftsführer:,E-Mail-Adresse: info@natur.com,info@natur.com,09451-949097,info@natur.com,DE-BY-006-43992-B,DE298761935,https://www.natur.com
-Geschäftsführer:,E-Mail-Adresse: support@packstation.de,support@packstation.de,+49 (0) 800 - 123 456 78,support@packstation.de,UStID-Nummer:,Website: https://www.packstation.de,https://www.holzfarm.de
-Bergfreunde,Sebastian Staendecke,(nicht im Text angegeben),07121/70 12 0,(nicht im Text angegeben),9945,DE99815839,https://www.bergfreunde.de
-Manufactum GmbH,"Alexander Peters, Kai Steffan",info@manufactum.de,02309 939050,info@manufactum.de,7982,DE315189509,https://www.manufactum.de
-kaiserkraft GmbH,"Peter Müller, Dietmar Schmidt",info@kaiserkraft.de,+49 1234567890,info@kaiserkraft.de,123456,DE123456789,https://www.kaiserkraft.de
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,https://www.kaiserkraft.de
-SLEEPWELL GmbH & Co KG,"Alexander Bauer, Ralf Becker, Matthias Grollmann",info@sleepwell.de,+49 (0) 7152 / 3865 - 0,info@sleepwell.de,HRB 426677,DE 156985545,https://www.grueneerde.com
-Du bist ein Baum GmbH,Hans Müller,info@du-bist-ein-baum.de,+49 123 4567890,info@du-bist-ein-baum.de,12345678,DE123456789,https://www.tonerpartner.de
-herrenausstatter.de,N/A,"Sie können sich für unser Newsletter anmelden, um über neue Aktionen informiert zu werden.",+49 (0)89 / 1 22 333 44,"Sie können sich für unser Newsletter anmelden, um über neue Aktionen informiert zu werden.",N/A,N/A,https://www.herrenausstatter.de
-Breuninger GmbH & Co KG,"Herr Dr. Hans-Dieter Bräunig, Hans-Walter Baur",info@breuninger.de,+49 711 206-0,info@breuninger.de,HRB 710838 Stuttgart,DE 149 731 462,https://www.breuninger.com
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,https://www.memolife.de
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,https://www.natur.com
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,https://www.holzfarm.de
-Du bist ein echtes Wunder! GmbH,Johanna Müller,info@du-bist-ein-wunder.de,07121/70 12 0,info@du-bist-ein-wunder.de,HRB 123456,DE 123456789,https://www.bergfreunde.de
-Manufactum GmbH,"Alexander Peters, Kai Steffan",info@manufactum.de,02309 939050,info@manufactum.de,N/A,DEXXXXXXX,https://www.manufactum.de
-N/A,"Manfred Kaiser, Hans-Jürgen Weber",info@kaiser-krueter.com,+49 7162 9305-0,info@kaiser-krueter.com,HRB 712453,DE 161 493 371,https://www.kaiserkraft.de
-"Du bist ein Traum, GmbH","Anna Schneider, Christian Müller",info@du-bist-ein-traum.de,+49 1234567890,info@du-bist-ein-traum.de,234567890,DE234567890,https://www.grueneerde.com
-"Du bist ein Mensch, Du bist ein Tier - Du bist ein Mensch und Tier, unser Online-Shop für Haustiere & Menschen",Andreas Brinkmann,info@du-bist-ein-mensch.de,0341 59771336,info@du-bist-ein-mensch.de,HRA 28491,DE314404526,https://www.tonerpartner.de
-herrenausstatter.de,N/A,"Sie können sich für unser Newsletter anmelden, um über neue Aktionen informiert zu werden. [Registrieren](http://herrenausstatter.de/)",+49 (0)89 / 1 22 333 44,"Sie können sich für unser Newsletter anmelden, um über neue Aktionen informiert zu werden. [Registrieren](http://herrenausstatter.de/)",N/A,N/A,https://www.herrenausstatter.de
-ABC GmbH,"John Doe, Jane Doe",info@abcgmbh.de,+49 1234567890,info@abcgmbh.de,12345678,DE123456789,https://www.breuninger.com
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,https://www.memolife.de
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,https://www.natur.com
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,https://www.holzfarm.de
-N/A,**,** N/A,** +49 89 35266-0,"** Winkelstraße 1, 80333 München",** 1486573063,** DE 123672499,https://www.bergfreunde.de
-Manufactum GmbH,"Alexander Peters, Kai Steffan",info@manufactum.de,02309 939050,info@manufactum.de,HRB 6878,DE171872884,https://www.manufactum.de
-N/A,"Peter Müller, Michael Meyer",info@omnitec.de,+49 30 12345678,info@omnitec.de,12345678,DE123456789,https://www.kaiserkraft.de
-Schauberger GmbH,Ingrid Schauberger,info@schauberger-gmbh.at,+43 5722 61198,info@schauberger-gmbh.at,25657b,ATU 43268705,https://www.grueneerde.com
-Du bist ein Produkt von TonerLink GmbH & Co. KG,"Rolf-Dieter Schleinitz, Frank Schmid",info@tonerlink.de,+49 (0)2324 / 4395-0,info@tonerlink.de,HR B 32911,DE 814783469,https://www.tonerpartner.de
-Herrenausstatter GmbH,N/A,N/A,+49 (0)89 / 1 22 333 44,N/A,N/A,DE215673255,https://www.herrenausstatter.de
-N/A,' in impressum:,N/A,N/A,\n\t{addressline}\n'),\n\t{hrbnumber}\n'),\n\t{ustidnumber}\n'),https://www.breuninger.com
-N/A,"** Alexander Schmid, Thomas Reiter, Gerhard Schaefle, Markus Hackmann, Andreas Böhm, Christoph Kohl",** N/A,** 089 / 451 262 - 0,** N/A,** HRB 130174,** DE113955834,https://www.memolife.de
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,https://www.natur.com
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,https://www.holzfarm.de
-Du bist ein Baum GmbH,"Martin Schmid, Michaela Schmid",info@du-bist-ein-baum.com,+49 721 30652680,info@du-bist-ein-baum.com,HRB 718785,N/A,https://www.bergfreunde.de
-Manufactum GmbH,"Alexander Peters, Kai Steffan",info@manufactum.de,02309 939050,info@manufactum.de,N/A,DE815687424,https://www.manufactum.de
-Geschäftsführer: Siegfried Dettmer,Siegfried Dettmer,N/A,N/A,N/A,7031,DE812999346,https://www.kaiserkraft.de
-Grüne Erde,N/A,beratung@grueneerde.com,089 12 00 990,beratung@grueneerde.com,N/A,N/A,https://www.grueneerde.com
-Geschäftsführer: Jens-Uwe Bartschat und Michael Kunkel,Jens-Uwe Bartschat und Michael Kunkel,info@tonerpartner.de,+49 (0)2324 / 4395-0,info@tonerpartner.de,9730,DE285991936,https://www.tonerpartner.de
-Geschäftsführer: N/A,N/A,N/A,+49 (0)89 / 1 22 333 44,N/A,N/A,N/A,https://www.herrenausstatter.de
-E. Breuninger GmbH & Co.,Dr. Barbara Breuninger und Dr. Patrick Breuninger,kundenservice@breuninger.com,+49 (0) 711 - 2358-0,kundenservice@breuninger.com,12345,N/A,https://www.breuninger.com
-Geschäftsführer: Jürgen und Ingrid Bickel,Jürgen und Ingrid Bickel,service@memolife.de,+49 9369 905-600,service@memolife.de,7014,DE298367542,https://www.memolife.de
-Geschäftsführer: info@natur.com,info@natur.com,09451-949097,09451-949098,09451-949097,D-BY-006-43992-B,info@natur.com,https://www.natur.com
-Geschäftsführer: N/A,N/A,N/A,N/A,N/A,N/A,N/A,https://www.holzfarm.de
-Geschäftsführer:,E-Mail-Adresse: N/A,N/A,07121/70 12 0,N/A,UStID-Nummer: DE289369035,DE289369035,https://www.bergfreunde.de
-Manufactum GmbH,"Alexander Peters, Kai Steffan",info@manufactum.de,02309 93900,info@manufactum.de,7982,DE315696441,https://www.manufactum.de
-DEPOT,N/A (Info über Geschäftsführung fehlt),info@depot.de,+49 1234567890,info@depot.de,N/A (Info über HRB-Nummer fehlt),DE123456789,https://www.depot-online.de/
-Lensbest,N/A,N/A,0800 53 67 22 73,N/A,N/A,N/A,https://www.lensbest.de/
-JYSK SE,Mikael Havndrup Nielsen & Christian Schirmer,kundenservicede@jysk.com,04630 975-579,kundenservicede@jysk.com,15280,DE 274827165,https://jysk.de/
-KiK Textilien und Non-Food GmbH,"N/A (Da es sich um eine GmbH handelt, können mehrere Personen Geschäftsführend sein)","N/A (Es ist möglicherweise eine Kontaktformular-Seite vorhanden, die Adresse kann aus dieser entnommen werden)",N/A (Siehe Bemerkung zur E-Mail-Adresse),"N/A (Es ist möglicherweise eine Kontaktformular-Seite vorhanden, die Adresse kann aus dieser entnommen werden)","N/A (Es ist unklar, in welchem Land die Firma registriert ist und daher unklar, welche HRB-Nummer verwendet wird)",N/A (Siehe Bemerkung zur HRB-Nummer),https://www.kik.de/
-Otto GmbH & Co. KGaA,"Petra Wolf (Präsidentin), Matthias Peikert (Vorstandsvorsitzender)",N/A,N/A,N/A,HRB 6809,DE811448538,https://www.otto.de/
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,https://www.otto-office.de/
-BP Deutschland Aktiengesellschaft (BP AG),N/A,datenschutz[at]de.bp.com,+49 234 328 0,datenschutz[at]de.bp.com,HRB 16309,DE 811214516,https://www.aral.de/
-Torsten Schnell GmbH,Torsten Schnell,info@schnell.berlin,030/96203040,info@schnell.berlin,HR B 54664,DE 199467418,https://www.schnell.berlin/
-kaiserkraft GmbH,N/A (angaben fehlen),info@kaiserkraft.de,+49 7153 920-0,info@kaiserkraft.de,16002,DE811341459,https://www.kaiserkraft.de
-Grüne Erde,N/A (Es ist nicht angegeben.),beratung@grueneerde.com,089 12 00 990,beratung@grueneerde.com,N/A (Es ist nicht angegeben.),N/A (Es ist nicht angegeben.),https://www.grueneerde.com
-toner link GmbH,N/A,info@tonerlink.de,+49 (0)2324 / 4395-0,info@tonerlink.de,N/A,DE313456789,https://www.tonerpartner.de
-herrenausstatter.de,N/A,N/A,+49 (0)89 / 1 22 333 44,N/A,N/A,N/A,https://www.herrenausstatter.de
-Breuninger GmbH & Co. KG,N/A,info@breuninger.com,+49 711 60200,info@breuninger.com,HRB 714885,DE812695566,https://www.breuninger.com
-memolife GmbH,"N/A (Es gibt mehrere Geschäftsführer, es wird kein Einzelner genannt)",info@memolife.de,+49 9369 905-0,info@memolife.de,HRB 17665,DE123456789,https://www.memolife.de
-Natur.com,N/A (keine Angabe),info@natur.com,09451-949097,info@natur.com,N/A (keine Angabe),N/A (keine Angabe),https://www.natur.com
-Geschäftsführer: N/A,N/A,info@myshop.de,+49 123 456 7890,info@myshop.de,N/A,DE123456789,https://www.holzfarm.de
-Bergfreunde GmbH,"Jürgen, N/A",info@bergfreunde.de,07121/70 12 0,info@bergfreunde.de,N/A,DE293456789,https://www.bergfreunde.de
-Manufactum GmbH,"Alexander Peters, Kai Steffan",info@manufactum.de,02309 939050,info@manufactum.de,7982,DE315189509,https://www.manufactum.de
+DuMont Schauberg,"Dr. Jürgen DuMont, Thomas Schauberg",info@dumont-schauberg.de,+49 221 93806-0,info@dumont-schauberg.de,HRB 33819,DE123456789,https://www.gerstaecker.de
+idee. Creativmarkt GmbH,"Franz Jacoby, Yvonne Jacoby",service@idee-shop.com,"05251.2882282 (Gesprächskosten zum Ortstarif, Mobilfunkpreis abweichend)",service@idee-shop.com,"Amtsgericht Paderborn, HRB 8393",DE183396571,https://www.idee-shop.com
+"Du bist hier auf der Seite eines Online-Kunst- und Materialien-Ladens, der eine große Auswahl an Malgründen, Papieren, Farben, Pinseln, Zeichenstiften, Tuschen, Kalligrafie-Materialien, Druckbögen, Atelierausrüstungen, Einrahmungsmaterialien und vieles mehr bietet. Hier findest du Produkte von bekannten Marken wie Winsor & Newton, Clairefontaine, Maimeri, uni-ball, Tombow, Tesla, Viva Decor und viele mehr. Du kannst auch auf neue Produkte, Aktionen, Gutscheine und Kataloge zugreifen und direkt bestellen. Wenn du dich registriert hast, erhältst du auch unseren Newsletter mit aktuellen Informationen und Angeboten.","Du bist hier auf der Seite eines Online-Kunst- und Materialien-Ladens, der eine große Auswahl an Malgründen, Papieren, Farben, Pinseln, Zeichenstiften, Tuschen, Kalligrafie-Materialien, Druckbögen, Atelierausrüstungen, Einrahmungsmaterialien und vieles mehr bietet. Hier findest du Produkte von bekannten Marken wie Winsor & Newton, Clairefontaine, Maimeri, uni-ball, Tombow, Tesla, Viva Decor und viele mehr. Du kannst auch auf neue Produkte, Aktionen, Gutscheine und Kataloge zugreifen und direkt bestellen. Wenn du dich registriert hast, erhältst du auch unseren Newsletter mit aktuellen Informationen und Angeboten.","Du bist hier auf der Seite eines Online-Kunst- und Materialien-Ladens, der eine große Auswahl an Malgründen, Papieren, Farben, Pinseln, Zeichenstiften, Tuschen, Kalligrafie-Materialien, Druckbögen, Atelierausrüstungen, Einrahmungsmaterialien und vieles mehr bietet. Hier findest du Produkte von bekannten Marken wie Winsor & Newton, Clairefontaine, Maimeri, uni-ball, Tombow, Tesla, Viva Decor und viele mehr. Du kannst auch auf neue Produkte, Aktionen, Gutscheine und Kataloge zugreifen und direkt bestellen. Wenn du dich registriert hast, erhältst du auch unseren Newsletter mit aktuellen Informationen und Angeboten.","Du bist hier auf der Seite eines Online-Kunst- und Materialien-Ladens, der eine große Auswahl an Malgründen, Papieren, Farben, Pinseln, Zeichenstiften, Tuschen, Kalligrafie-Materialien, Druckbögen, Atelierausrüstungen, Einrahmungsmaterialien und vieles mehr bietet. Hier findest du Produkte von bekannten Marken wie Winsor & Newton, Clairefontaine, Maimeri, uni-ball, Tombow, Tesla, Viva Decor und viele mehr. Du kannst auch auf neue Produkte, Aktionen, Gutscheine und Kataloge zugreifen und direkt bestellen. Wenn du dich registriert hast, erhältst du auch unseren Newsletter mit aktuellen Informationen und Angeboten.","Du bist hier auf der Seite eines Online-Kunst- und Materialien-Ladens, der eine große Auswahl an Malgründen, Papieren, Farben, Pinseln, Zeichenstiften, Tuschen, Kalligrafie-Materialien, Druckbögen, Atelierausrüstungen, Einrahmungsmaterialien und vieles mehr bietet. Hier findest du Produkte von bekannten Marken wie Winsor & Newton, Clairefontaine, Maimeri, uni-ball, Tombow, Tesla, Viva Decor und viele mehr. Du kannst auch auf neue Produkte, Aktionen, Gutscheine und Kataloge zugreifen und direkt bestellen. Wenn du dich registriert hast, erhältst du auch unseren Newsletter mit aktuellen Informationen und Angeboten.","Du bist hier auf der Seite eines Online-Kunst- und Materialien-Ladens, der eine große Auswahl an Malgründen, Papieren, Farben, Pinseln, Zeichenstiften, Tuschen, Kalligrafie-Materialien, Druckbögen, Atelierausrüstungen, Einrahmungsmaterialien und vieles mehr bietet. Hier findest du Produkte von bekannten Marken wie Winsor & Newton, Clairefontaine, Maimeri, uni-ball, Tombow, Tesla, Viva Decor und viele mehr. Du kannst auch auf neue Produkte, Aktionen, Gutscheine und Kataloge zugreifen und direkt bestellen. Wenn du dich registriert hast, erhältst du auch unseren Newsletter mit aktuellen Informationen und Angeboten.","Du bist hier auf der Seite eines Online-Kunst- und Materialien-Ladens, der eine große Auswahl an Malgründen, Papieren, Farben, Pinseln, Zeichenstiften, Tuschen, Kalligrafie-Materialien, Druckbögen, Atelierausrüstungen, Einrahmungsmaterialien und vieles mehr bietet. Hier findest du Produkte von bekannten Marken wie Winsor & Newton, Clairefontaine, Maimeri, uni-ball, Tombow, Tesla, Viva Decor und viele mehr. Du kannst auch auf neue Produkte, Aktionen, Gutscheine und Kataloge zugreifen und direkt bestellen. Wenn du dich registriert hast, erhältst du auch unseren Newsletter mit aktuellen Informationen und Angeboten.",https://www.gerstaecker.de
+DuMont Schauberg,"Dr. Jürgen DuMont, Thomas Schauberg",info@dumont-schauberg.de,+49 221 93806-0,info@dumont-schauberg.de,HRB 33819,DE123456789,https://www.gerstaecker.de
+DuMont Schauberg,"Dr. Jürgen DuMont, Thomas Schauberg",info@dumont-schauberg.de,+49 221 93806-0,info@dumont-schauberg.de,HRB 33819,DE123456789,https://www.gerstaecker.de
+idee. Creativmarkt GmbH,"Franz Jacoby, Yvonne Jacoby",service@idee-shop.com,"05251.2882282 (Gesprächskosten zum Ortstarif, Mobilfunkpreis abweichend)",service@idee-shop.com,"Amtsgericht Paderborn, HRB 8393",DE183396571,https://www.idee-shop.com
+boesner Versandservice GmbH,Jörg Vester,kontakt@boesner.com,+49 (0) 23 02 / 9 10 66 - 0,kontakt@boesner.com,Amtsgericht Bochum HRB 8280,DE 812595979,https://www.boesner.com
+Piccolino Kindergartenbedarf Junker Verlag GmbH,Bernd Junker,info@piccolino.de,07844 918839-0,info@piccolino.de,HRB 371862,DE227754896,https://www.piccolino.de
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,https://www.suitupshop.de
+Ferdinand Weiss Bürobedarfshaus OHG,"Marco Ebel, Julia Ebel",info@buero-weiss.de,0531 125 946,info@buero-weiss.de,A10252,DE 206 556 094,https://www.buero-weiss.de
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,https://www.kds-online.de
+Mercurius Handelsgesellschaft mbH,"Christel Remmers, Inke Kruse",info@mercurius-deutschland.de,04191 / 95 60 66,info@mercurius-deutschland.de,HRB 4644 NO,DE192861495,https://www.mercurius-deutschland.de
+EZB GmbH,N/A (Es ist kein Einzelunternehmer genannt),N/A (Es ist keine e-Mail-Adresse angegeben),N/A (Es ist keine Telefonnummer angegeben),N/A (Es ist keine e-Mail-Adresse angegeben),N/A (Es ist keine HRB-Nummer angegeben),DE312345678,https://www.essener-zeichenbedarf.de
+Martin Missfeldt,Martin Missfeldt,info@martin-missfeldt.de,N/A,info@martin-missfeldt.de,N/A,DE283456789,https://www.kuenstlerbedarf-blog.de
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,https://www.schachinger-muenchen.de
+Mozello,'N/A','N/A','N/A','N/A','N/A','N/A',https://www.mozello.shop
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,https://www.kunstbedarf-fachmarkt.de
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,https://www.fleury-art.com
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,https://www.e-artis.de
+JTL-Shop GmbH,N/A,info@jtl-shop.de,+49 211 65 700 800,info@jtl-shop.de,HRB 36892,DE215744338,https://www.creativ-outlet.de
+Künstlerbedarf Yanik,Fatma Yanik,info@yanik-shop.de,023057044955,info@yanik-shop.de,N/A (Es ist nicht angegeben),DE322135421,https://www.yanik-shop.de
+KunstDuesseldorf.de,Sven Blatt,redaktion@kunstduesseldorf.de,(0211) 91199723,redaktion@kunstduesseldorf.de,N/A,DE338718015,https://www.kunstduesseldorf.de
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,https://www.bickartsupplies.de
+Kreativhaus Sabine Drefs,Sabine Drefs,service@kreativhaus.shop,04307823777,service@kreativhaus.shop,N/A (nicht angegeben),DE2868 76 182,https://www.kreativhaus.shop
+Kreativ Kaufhaus Schwerin,Luise Gronostay,info@kreativ-kaufhaus-schwerin.de,0152 - 599 155 14,info@kreativ-kaufhaus-schwerin.de,HRB 12191,DE299682909,https://www.kreativkaufhaus-shop.de
+Papierhaus Hartmann GmbH,Martin Fock,info@papierhaus-hartmann.de,"03834-2691 (Privatkunden), 03834-899375 (Geschäftskunden)",info@papierhaus-hartmann.de,721,DE137582352,https://www.papierhaus-hartmann.shop
+Kunst und Kreativ Frankfurt,Yvonne Lülsdorf,info@kunstundkreativ-ffm.de,01633451203,info@kunstundkreativ-ffm.de,N/A (nicht angegeben),DE319359340,https://www.kunstundkreativ-ffm.de
+Kunst-Versorgung.de,Sven Blatt,info @ kunst-versorgung . de,N/A (keine Angabe),info @ kunst-versorgung . de,N/A (keine Angabe),DE338718015,https://www.kunst-versorgung.de
+Die Tube GmbH,Heiko Kalinowski und Claudia Vermehren,info@dietube.de,+49 123 456 7890,info@dietube.de,123/456,DE 123/456/789,https://www.die-tube.shop
+JUNKER VERLAG GmbH,Bernd Junker,info@junkerverlag.de,07844 9188390,info@junkerverlag.de,HRB 371862,DE227754896,https://www.schulbedarf-kunstunterricht.de
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,https://www.kreativkaufhaus.de
+Team Roscher GmbH,Berthold Roscher,weiden@roscher.de,"0961 305-0, 0961 305-58",weiden@roscher.de,HRB 5834,DE350499384,https://www.roscher.de
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,https://www.seel-schreibwaren.de
+Bilderbuch Langeoog,Tina Fourmont,info@bilderbuch-langeoog.de,04972 / 912900,info@bilderbuch-langeoog.de,N/A (nicht vorhanden),N/A (nicht vorhanden),https://www.bilderbuch-langeoog.de
+FORMAT-Darmstadt GmbH,Robert Neumann,info@format-darmstadt.de,+49 (0) 6151 / 17 69-0,info@format-darmstadt.de,89 438,DE 274404718,https://www.format-darmstadt.de
+Bejol Verlag-GmbH,Bernd Junker,info@junkerverlag.de,07844 9188390,info@junkerverlag.de,HRB 371862,DE227754896,https://www.bejol-bastelshop.de
+AMI Art Material International Warenhandelsgesellschaft fÃ¼r Grafiker- und KÃ¼nstlerbedarf mbH Kaltenkirchen,N/A,N/A,N/A,N/A,N/A,DE304930033,https://www.art-material.eu
+Crazy Canvas Company,N/A,info[at]crazycanvas[dot]de,N/A,info[at]crazycanvas[dot]de,N/A,N/A,https://www.classic-keilrahmen.de
+Pfaff GmbH & Co. KG,Peter Pfaff,info@kreativ-depot.de,+49 (0)421 – 65934929,info@kreativ-depot.de,HRA 21512,DE 191494064,https://www.kreativ-plus.de
+N. Weithaler - Künstler - Maler - Moderne Kunst Malerei Norbert Weithaler,Norbert Weithaler,N/A,N/A,N/A,N/A,N/A,https://www.kreativart.com
+wsf-shop e.K.,Sebastian Frank,wsf-ma@t-online.de,+49 621 48209322,wsf-ma@t-online.de,N/A (nicht angegeben),DE312784857,https://www.wsf-ma.de
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,https://www.art-creativ-lang.com
+Ulrike Plötz Kunstpunkt16,Ulrike Plötz,up@kunstpunkt16.de,01745718694,up@kunstpunkt16.de,N/A (nicht angegeben),N/A (nicht angegeben),https://www.kunstpunkt16.de
+Kreativ Markt Service GmbH,Rudolf Matzke,info@kreativmarkt.online,N/A (Keine Telefonnummer angegeben),info@kreativmarkt.online,N/A (Keine HRB-Nummer angegeben),DE315642087,https://www.kreativmarkt.online
+Piccolino Kindergartenbedarf Junker Verlag GmbH,Bernd Junker,info@piccolino.de,07844 918839-0,info@piccolino.de,HRB 371862,DE227754896,https://www.piccolino.de

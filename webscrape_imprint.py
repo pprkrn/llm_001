@@ -1,6 +1,4 @@
-# -*- coding: utf-8 -*-
 # webscrape_imprint.py
-# Web-Scraping-Tool für Impressum-Daten
 
 import requests
 from bs4 import BeautifulSoup
@@ -8,6 +6,10 @@ import time
 from urllib.parse import urlparse
 import csv
 import sys
+
+# Token-Schätzung: 1 Token ≈ 3.5 Zeichen (grob für Deutsch)
+def estimate_tokens(text):
+    return int(len(text) / 3.5)
 
 # 🧰 UTF-8 Ausgabe aktivieren
 sys.stdout.reconfigure(encoding='utf-8')
@@ -52,7 +54,19 @@ def run_scraper(target_url):
             print(f"🔹 Status: {response.status_code}")
             if response.status_code == 200:
                 soup = BeautifulSoup(response.text, "html.parser")
+
+                # Entferne leere oder irrelevante Tags
+                for tag in soup.find_all():
+                    if not tag.get_text(strip=True):
+                        tag.decompose()
+
                 text = soup.get_text(separator=" ", strip=True)
+                token_estimate = estimate_tokens(text)
+                print(f"🧮 Geschätzte Tokenanzahl: {token_estimate} Tokens")
+
+                if token_estimate > 8192:
+                    print("⚠️ Text ist sehr lang – mögliche Kürzung empfohlen!")
+
                 print(f"\n✅ Impressum gefunden unter: {url}")
                 return text, url
         except requests.RequestException as e:
