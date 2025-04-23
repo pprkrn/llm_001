@@ -25,7 +25,7 @@ llm_001/
 ├── main_script.py                     # Einzelverarbeitung
 ├── run_batch_domains.py               # Batch-Verarbeitung
 ├── llm_query.py                       # LLM-Logik für Datenanalyse
-└── webscrape_imprint.py               # (nicht enthalten) Web-Scraping Modul
+└── webscrape_imprint.py               # Web-Scraping Modul
 ```
 
 ---
