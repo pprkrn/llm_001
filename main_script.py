@@ -16,7 +16,7 @@ target_url = sys.argv[1]
 print(f"\n🚀 Starte Verarbeitung für: {target_url}")
 
 # 📁 CSV-Datei
-csv_file = "output/impressum_analyse_debug.csv"
+csv_file = "output/impressum_analyse.csv"
 csv_header = [
     "Unternehmensname", "Geschäftsführer", "E-Mail-Adresse",
     "Telefonnummer", "Adresse", "HRB-Nummer", "UStID-Nummer", "Website"

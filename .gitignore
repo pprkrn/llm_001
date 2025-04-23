@@ -1,0 +1,25 @@
+# Bytecode-Dateien
+__pycache__/
+*.py[cod]
+
+# IDEs/Editoren
+.vscode/
+.idea/
+*.swp
+
+# Betriebssystem-spezifisch
+.DS_Store
+Thumbs.db
+
+# Spezifische Dateien ignorieren
+/output/impressum_analyse_debug.csv
+/input/urls_test.csv
+
+# Logs & temporäre Dateien
+*.log
+*.tmp
+
+# Python-Umgebungen
+.venv/
+env/
+venv/

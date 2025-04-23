@@ -56,7 +56,7 @@ Verarbeitet eine einzelne Domain:
 
 - Übergibt URL an `llm_query.get_data_for_csv()`
 - Analysiert die LLM-Antwort per RegEx
-- Schreibt das Ergebnis in `output/impressum_analyse_debug.csv`
+- Schreibt das Ergebnis in `output/impressum_analyse.csv`
 
 #### Beispiel:
 
