@@ -21,7 +21,7 @@ llm_001/
 ├── input/
 │   └── urls.csv                        # CSV-Datei mit den Ziel-URLs
 ├── output/
-│   └── impressum_analyse_debug.csv    # Ergebnisdatei der Datenextraktion
+│   └── impressum_analyse.csv          # Ergebnisdatei der Datenextraktion
 ├── main_script.py                     # Einzelverarbeitung
 ├── run_batch_domains.py               # Batch-Verarbeitung
 ├── llm_query.py                       # LLM-Logik für Datenanalyse
