@@ -6,7 +6,7 @@ import time
 from urllib.parse import urlparse
 import csv
 import sys
-
+sys.stdout.reconfigure(encoding='utf-8')
 # Token-Schätzung: 1 Token ≈ 3.5 Zeichen (grob für Deutsch)
 def estimate_tokens(text):
     return int(len(text) / 3.5)

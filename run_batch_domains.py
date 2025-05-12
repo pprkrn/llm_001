@@ -16,7 +16,10 @@ try:
         for row in reader:
             url = row.get("Target URL")
             if url:
-                target_urls.append(url.strip())
+                url = url.strip()
+                if not url.startswith("http://") and not url.startswith("https://"):
+                    url = "https://" + url
+                target_urls.append(url)
 except FileNotFoundError:
     print(f"❌ Datei nicht gefunden: {csv_file}")
     sys.exit(1)
