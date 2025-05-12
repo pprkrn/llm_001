@@ -19,7 +19,8 @@ print(f"\n🚀 Starte Verarbeitung für: {target_url}")
 csv_file = "output/impressum_analyse.csv"
 csv_header = [
     "Unternehmensname", "Geschäftsführer", "E-Mail-Adresse",
-    "Telefonnummer", "Adresse", "HRB-Nummer", "UStID-Nummer", "Website"
+    "Telefonnummer", "Straße und Hausnummer", "PLZ", "Ort", "Land", 
+    "HRB-Nummer", "UStID-Nummer", "Website"
 ]
 
 # 🔍 Funktion zum Parsen der LLM-Ausgabe
@@ -33,11 +34,14 @@ def extract_info(text, domain):
         "Geschäftsführer": extract(r"Geschäftsführer:\s*(.+)"),
         "E-Mail-Adresse": extract(r"E-Mail-Adresse:\s*(.+)"),
         "Telefonnummer": extract(r"Telefonnummer:\s*(.+)"),
-        "Adresse": extract(r"Adresse:\s*(.+)"),
+        "Straße und Hausnummer": extract(r"Straße und Hausnummer:\s*(.+)"),
+        "PLZ": extract(r"PLZ:\s*(.+)"),
+        "Ort": extract(r"Ort:\s*(.+)"),
+        "Land": extract(r"Land:\s*(.+)"),
         "HRB-Nummer": extract(r"HRB-Nummer:\s*(.+)"),
         "UStID-Nummer": extract(r"UStID-Nummer:\s*(.+)"),
         "Website": domain
-    }
+        }
 
 try:
     # 🧠 LLM aufrufen

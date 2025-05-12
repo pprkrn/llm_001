@@ -24,7 +24,10 @@ def get_data_for_csv(target_url):
         Geschäftsführer:
         E-Mail-Adresse:
         Telefonnummer:
-        Adresse:
+        Straße und Hausnummer:
+        PLZ:
+        Ort:
+        Land:
         HRB-Nummer:
         UStID-Nummer:
         Website:
@@ -37,7 +40,9 @@ def get_data_for_csv(target_url):
             "{extracted_data}\n\n"
             "Der folgende Text wurde von einer Impressumsseite extrahiert:\n\n"
             "{llm_text_input}\n\n"
-            "Achte besonders auf Geschäftsführer, Adresse und Kontaktinformationen. "
+            "Gib nur die Hauptanschrift/zentrale Anschrift an."
+            "Achte besonders auf Geschäftsführer, physische Adresse und Kontaktinformationen. "
+            "Gib Straße und Hausnummer, Postleitzahl, Ort und Land jeweils separat an. "
             "Wenn etwas nicht vorhanden ist, gib 'N/A' zurück.\n\n"
             "Gib die Daten ausschließlich im folgenden Format zurück:\n{extracted_data}\n"
             "Keine Erklärungen oder Kommentare."
